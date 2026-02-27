@@ -29,7 +29,7 @@ $$L(\theta) = L_{\text{task}}(\theta) + \alpha \| f_\theta(\theta) - \theta \|^2
 - The phenomenon explains instabilities in meta-learning, world models, and reflective architectures.
 
 <p align="center">
-  <img src="figures/curvature_transition_n50.png" width="800" alt="Curvature Transition Diagram">
+  <img src="notebooks/figures/curvature_transition_n50.png" width="800" alt="Curvature Transition Diagram">
 </p>
 
 ---
