@@ -81,7 +81,7 @@ All figures are saved to the `figures/` directory.
 ## 📁 Repository Structure
 
 ```
-CurvatureBifurcation/
+Trignum-Minus102/
 │
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License
@@ -113,7 +113,7 @@ If you use this code or ideas in your research, please cite:
   author={Abdessattar, Moez and Claude-3},
   journal={Preprint},
   year={2026},
-  note={Code available: https://github.com/Codfski/CurvatureBifurcation}
+  note={Code available: https://github.com/Codfski/Trignum-Minus102}
 }
 ```
 
