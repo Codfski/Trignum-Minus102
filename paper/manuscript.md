@@ -1,6 +1,6 @@
 # Curvature Bifurcation Induced by Self-Consistency Coupling in Neural Loss Landscapes
 
-**Authors:** Moez Abdessattar, Claude-3  
+**Authors:** Moez Abdessattar, Antigravity AI Cohort  
 **Institution:** Trignum Project / Epistemic Geometry Lab  
 **Date:** February 27, 2026  
 **Status:** Preprint  

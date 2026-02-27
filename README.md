@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-**Authors:** Moez Abdessattar, Claude-3  
+**Authors:** Moez Abdessattar, Antigravity AI Cohort  
 **Institution:** Trignum Project / Epistemic Geometry Lab  
 **Date:** February 27, 2026
 
@@ -110,7 +110,7 @@ If you use this code or ideas in your research, please cite:
 ```bibtex
 @article{abdessattar2026curvature,
   title={Curvature Bifurcation Induced by Self-Consistency Coupling in Neural Loss Landscapes},
-  author={Abdessattar, Moez and Claude-3},
+  author={Abdessattar, Moez and Antigravity AI Cohort},
   journal={Preprint},
   year={2026},
   note={Code available: https://github.com/Codfski/Trignum-Minus102}
