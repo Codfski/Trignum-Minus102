@@ -1,5 +1,6 @@
 # Curvature Bifurcation in Self-Consistent Neural Loss Landscapes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18795714.svg)](https://doi.org/10.5281/zenodo.18795714)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -26,6 +27,10 @@ $$L(\theta) = L_{\text{task}}(\theta) + \alpha \| f_\theta(\theta) - \theta \|^2
 - This bifurcation is reproducible across dimensions ($n=50-200$) and random initializations.
 - $\alpha_c = 1.85 \pm 0.11$ under our experimental conditions.
 - The phenomenon explains instabilities in meta-learning, world models, and reflective architectures.
+
+<p align="center">
+  <img src="figures/curvature_transition_n50.png" width="800" alt="Curvature Transition Diagram">
+</p>
 
 ---
 
